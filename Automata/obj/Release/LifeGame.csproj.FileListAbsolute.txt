@@ -1,0 +1,9 @@
+E:\LiuBin\Github\LifeGame\Automata\bin\Release\Automata.exe.config
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\Automata.exe
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\Automata.pdb
+E:\LiuBin\Github\LifeGame\Automata\bin\Release\Automata.exe
+E:\LiuBin\Github\LifeGame\Automata\bin\Release\Automata.pdb
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\LifeGame.csprojResolveAssemblyReference.cache
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\LifeGame.FormLifeGame.resources
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\LifeGame.Properties.Resources.resources
+E:\LiuBin\Github\LifeGame\Automata\obj\Release\LifeGame.csproj.GenerateResource.Cache
